@@ -1,0 +1,20 @@
+{
+  "name": "docstext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "glob": "^7.1.6",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.6"
+  }
+}
